@@ -1,8 +1,8 @@
 ### 
 
-<video src="https://github.com/Jay9093/Jay9093/assets/125681129/95cffdf1-af00-4b41-9aba-9e80fa1bbc3d" width="400" height="200">
 
 
+<video src=https://github.com/Jay9093/Jay9093/assets/125681129/ca5bf624-bcdb-43ce-915d-82286e5eac54 width="1" height="1" autoplay muted>
 
 
 
