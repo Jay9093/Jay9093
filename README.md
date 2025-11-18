@@ -10,7 +10,7 @@
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay9093&show_icons=true&locale=en&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay9093" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay9093&" />
   <img src="https://github-readme-stats.vercel.app/api?username=jay9093&show_icons=true&locale=en" />
 </div>
 
